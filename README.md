@@ -1,2 +1,2 @@
 # ngReusablePieces
-repo contains angular reusable component, service and classes
+repo contains angular's reusable component, service and classes
